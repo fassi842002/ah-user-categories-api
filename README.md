@@ -29,7 +29,7 @@ A RESTful API for managing Albert Heijn category managers and their assigned cat
 
 **1. Clone the repository:**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/ah-user-categories-api.git
+   git clone https://github.com/fassi842002/ah-user-categories-api.git
    cd ah-user-categories-api
   ```
 **2. Install dependencies:**
