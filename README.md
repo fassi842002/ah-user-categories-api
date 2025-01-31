@@ -1,6 +1,6 @@
 # AH User Categories API
 
-A RESTful API for managing ah category managers and their assigned categories, built with Nest.js, Prisma, and PostgreSQL.
+A RESTful API for managing category managers and their assigned categories, built with Nest.js, Prisma, and PostgreSQL.
 
 ## Features
 
