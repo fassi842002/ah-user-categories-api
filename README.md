@@ -38,7 +38,7 @@ npm install
 
 **3. Create .env file:**
 
-DATABASE_URL="postgresql://postgres:your_password@localhost:5432/ah-users?schema=public"
+DATABASE_URL="postgresql://postgres:your_password@localhost:5432/your_database?schema=public" //exampler
 
 **4. Run database migrations:**
 
