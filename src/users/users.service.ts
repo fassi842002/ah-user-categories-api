@@ -17,6 +17,6 @@ export class UsersService {
     }
 
     async getUser(id: number) {
-        return this.prisma.user.findUnique({ where: { id } });
+        return this.prisma.user.findUnique({ where: { id }, select: { email: true, categories: true } });
     }
 }
