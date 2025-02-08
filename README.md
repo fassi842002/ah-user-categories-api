@@ -81,11 +81,8 @@ GET /users/{id}
 **Response:**
 ```
 {
-  "id": 1,
   "email": "category.manager@ah.nl",
-  "categories": [8, 63, 89],
-  "createdAt": "2025-01-31T12:34:56.789Z",
-  "updatedAt": "2025-01-31T12:34:56.789Z"
+  "categories": [8, 63, 89]
 }
 ```
 **Database Schema**
